@@ -1,0 +1,6 @@
+alias	ls ls --color
+alias	ll ls -l --color
+alias	la ls -a --color
+alias	cgrep grep --color
+
+setenv SVN_EDITOR emacs

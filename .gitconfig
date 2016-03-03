@@ -1,0 +1,9 @@
+[user]
+#	name = xxx
+#	email = xxx
+[core]
+	editor = emacs
+	excludesfile = ~/.gitignore
+[alias]
+	st = status
+
